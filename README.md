@@ -2,4 +2,4 @@
 
 # animated-memory
 
-[Посмотреть на GitHub Pages](https://tolik19bat.github.io/animated-memory/)
+<!-- [Посмотреть на GitHub Pages](https://tolik19bat.github.io/animated-memory/) -->
